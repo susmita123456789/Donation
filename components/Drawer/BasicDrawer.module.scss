@@ -1,0 +1,11 @@
+.basicDrawer :global(.ant-drawer-header-title) {
+  flex-direction: row-reverse;
+}
+
+.basicDrawer :global(.ant-drawer-header-title .ant-drawer-title) {
+  font-size: 20px;
+}
+
+.basicDrawer :global(editor-squiggler) {
+  display: none;
+}

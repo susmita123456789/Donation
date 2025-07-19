@@ -1,0 +1,79 @@
+{
+    "sliders": [
+        "https://iskconnewtown.com/wp-content/uploads/2024/02/Sadhu-Bhojan-Seva-at-ISKCON.jpg",
+        "https://iskconmumbaipull-21250.kxcdn.com/web/image/4842-d8bc5f18/IMG-20190507-WA0022%20%281%29.webp",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRM32lb_5Z3q6BjuI2-ivRJvQrig4r7njYXw&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-17jBIEbLbyETbhRjIqvpHG8KaG1Yn6raLQhFzllyoIh4e3UOdEnP9nVjl1Zd4PaN6w8&usqp=CAU"
+    ],
+    "title": "Gita Daan Gita Jayanti",
+    "description": "Your kind donation will help us in Worshipping the Lord gorgeously, celebrating Janmashtami, Rama Navami and many other festivals, distributing Prasadam freely every day to hundreds of visitors, conducting courses for all age groups and through all this preserving and spreading awareness about our Ancient Indian VEDIC CULTURE.",
+    "tag": "15 Nov 2024 - 15 Dec 2023",
+    "donationHeads": [
+        {
+            "name": "Deity Seva",
+            "description": "",
+            "donationItems": [
+                {
+                    "seva": "Arti Thali",
+                    "amount": "5000",
+                    "image": "https://iskconmumbaipull-21250.kxcdn.com/iskcon_website_management/static/src/img/deity.jpeg?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=500"
+                },
+                {
+                    "seva": "Bronze kalash",
+                    "amount": "11000",
+                    "image": "https://iskconmumbaipull-21250.kxcdn.com/iskcon_website_management/static/src/img/deity.jpeg?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=500"
+                },
+                {
+                    "seva": "Silver kalash",
+                    "amount": "21000",
+                    "image": "https://iskconmumbaipull-21250.kxcdn.com/iskcon_website_management/static/src/img/deity.jpeg?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=500"
+                },
+                {
+                    "seva": "Gold kalash",
+                    "amount": "31000",
+                    "image": "https://iskconmumbaipull-21250.kxcdn.com/iskcon_website_management/static/src/img/deity.jpeg?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=500"
+                },
+                {
+                    "seva": "Platinum kalash",
+                    "amount": "41000",
+                    "image": "https://iskconmumbaipull-21250.kxcdn.com/iskcon_website_management/static/src/img/deity.jpeg?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=500"
+                },
+                {
+                    "seva": "You Decide",
+                    "amount": "null",
+                    "image": "https://iskconmumbaipull-21250.kxcdn.com/iskcon_website_management/static/src/img/deity.jpeg?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=500"
+                }
+            ]
+        },
+        {
+            "name": "Anna Daan Seva",
+            "donationItems": [
+                {
+                    "seva": "50 Meals",
+                    "amount": 1550,
+                    "image": "https://iskconmumbaipull-21250.kxcdn.com/iskcon_website_management/static/src/img/deity.jpeg?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=500"
+                },
+                {
+                    "seva": "100 Meals",
+                    "amount": 3100,
+                    "image": "https://iskconmumbaipull-21250.kxcdn.com/iskcon_website_management/static/src/img/deity.jpeg?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=500"
+                },
+                {
+                    "seva": "500 Meals",
+                    "amount": 15500,
+                    "image": "https://iskconmumbaipull-21250.kxcdn.com/iskcon_website_management/static/src/img/deity.jpeg?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=500"
+                },
+                {
+                    "seva": "1000 Meals",
+                    "amount": 31000,
+                    "image": "https://iskconmumbaipull-21250.kxcdn.com/iskcon_website_management/static/src/img/deity.jpeg?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=500"
+                },
+                {
+                    "seva": "You Decide",
+                    "amount": "null",
+                    "image": "https://iskconmumbaipull-21250.kxcdn.com/iskcon_website_management/static/src/img/deity.jpeg?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=500"
+                }
+            ]
+        }
+    ]
+}
